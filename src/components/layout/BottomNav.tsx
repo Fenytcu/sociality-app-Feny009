@@ -41,7 +41,7 @@ export default function BottomNav() {
         >
           <div className='relative w-6 h-6'>
             <Image
-              src='/assets/add.png'
+              src='/assets/Add.png'
               alt='Add Post'
               fill
               className='object-contain brightness-0 invert'
